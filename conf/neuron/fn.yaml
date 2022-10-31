@@ -1,0 +1,9 @@
+_target_: neuron.fn.FitzHughNagumo
+I: 0.8 
+tau: 5.0
+a: 0.8
+b: 0.7
+period: 200
+step: 10000
+v_init: -1.0 
+w_init: 0.0

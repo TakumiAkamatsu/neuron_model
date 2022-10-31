@@ -1,0 +1,3 @@
+defaults:
+  - neuron: fn
+  - fi_curve: basic
